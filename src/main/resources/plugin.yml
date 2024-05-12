@@ -1,0 +1,11 @@
+name: LastToLeave
+version: '${project.version}'
+main: de.marcey.lasttoleave.LastToLeave
+api-version: 1.19
+commands:
+  team:
+  rang:
+  map:
+  setspawn:
+  worldtp:
+  whitelist:
